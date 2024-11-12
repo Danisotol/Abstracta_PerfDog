@@ -5,6 +5,7 @@ API PerfDog Abstracta test.
 
 ## Descripción
 Este proyecto utiliza la API de Swagger Petstore para gestionar mascotas. Incluye scripts para crear mascotas, obtener sus detalles y crear órdenes para las mismas.
+Ya que Swagger reestablece los datos creados cada cierto tiempo, incluyo archivo JSON con las 10 mascotas co sus respectivos estados, creados por mi.
 
 ## Estructura del Proyecto
 - `export_pet_details.py`: Script para exportar los detalles de las mascotas a un archivo JSON.
